@@ -3,7 +3,7 @@
 
 ссылка на проект: @Serconslab_bot
 
-скрин настройки савви https://github.com/DimaSuvorin/ai_assistent/blob/main/Screenshot%202025-04-15%20170037.png?raw=true
+[скрин настройки савви https://github.com/DimaSuvorin/ai_assistent/blob/main/Screenshot%202025-04-15%20170037.png?raw=true](https://github.com/DimaSuvorin/ai_assistent/blob/main/Screenshot%202025-04-15%20170037.png?raw=true)
 
 
 ## Описание проекта
